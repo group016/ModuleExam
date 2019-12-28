@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+
+<form action="saveServlet" method="post">
+Id:<input type="text" name="id">
+Name:<input type="text" name="name">
+Department:<input type="text" name="depart">
+City:<input type="text" name="city">
+Graduation:<input type="text" name="graduation">
+University:<input type="text" name="univercity">
+<input type="submit" value="Add">
+
+
+
+
+
+
+
+
+
+
+</form>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
